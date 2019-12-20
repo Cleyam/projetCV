@@ -1,0 +1,38 @@
+*, #skill, #header{
+    margin: 0;
+    padding: 0;
+}
+
+.bgDarkBlue{
+    background-color: #2b6385;
+}
+
+.bgGrey{
+    background-color: #b3b7bb;
+}
+
+.whiteText{
+    color: white;
+}
+
+#header, .formation{
+    padding-bottom: 20px;
+}
+
+#cvAvatar{
+    font-size: 150px;
+}
+
+.cvIcons{
+    font-size: 40px;
+ }
+
+#profile{
+    padding-top: 20px;
+}
+
+
+
+li{
+    margin: 10px;
+}

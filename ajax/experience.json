@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "periode": "11/2016 - 05/2019",
+    "name": "Technicien Polyvalent",
+    "place": "MLPA Cinéma Les Lumières - Armentières",
+    "detail": ["Gestion de la caisse ou d'une équipe de caissiers, de l'entretien, de\nl'hygiène et de la sécurité au sein du cinéma.",
+      "Accueil, conseil et fidélisation de la clientèle. Animation d'événements\nculturels.",
+      "Management de l'équipe, formation de nouvelles recrues et/ou de\nstagiaires.",
+      "Gestion d'un stock de produits à flux tendu, inventaire, démarchage\nauprès des transporteurs et des fournisseurs, mise en place d'offres\npromotionnelles.",
+      "Gestion de la communication au sein de l'entreprise ( Design d'affiches\nsur Photoshop, community managing, interview presse et télévisée,\nintervention dans des émissions radios ).",
+      "Entretien des serveurs et des projecteurs, commande et réception de\ncopies numériques de films auprès des boîtes de distribution,\nprogrammation de séances par l'intermédiaire d'une TMS."
+    ]
+  },
+  {
+    "id": "2",
+    "periode": "02/2016 - 11-2016",
+    "name": "Agent de Cinéma",
+    "place": "MLPA Cinéma Les Lumières - Armentières",
+    "detail": ["Gestion de la caisse ou d'une équipe de caissiers, de l'entretien, de\nl'hygiène et de la sécurité au sein du cinéma.",
+    "Accueil, conseil et fidélisation de la clientèle."]
+  },
+  {
+    "id": "3",
+    "periode": "01/2016 - 02/2016",
+    "name": "Magasinier - Préparateur de commandes",
+    "place": "Logistique Franc SAS CAR HOUPLINES, Houplines",
+    "detail": ["Préparation de commandes en ligne pour l'entreprise Décathlon.",
+    "Compréhension du fonctionnement d'une entreprise de transport."]
+  },
+  {
+    "id": "4",
+    "periode": "06/2014 - 06/2014",
+    "name": "Stagiaire - Développent web",
+    "place": "CHRU Lille - Hôpital Roger Salengro - Service IRM, Lille",
+    "detail": ["Apprentissage des bases du HTML et du CSS, dans le cadre d'une équipe\ntravaillant sur un projet d'extension de la plateforme web interne du\nCHRU de Lille, au service de radiologie."
+    ]
+  },
+  {
+    "id": "5",
+    "periode": "06/2012 - 08/2012",
+    "name": "Employé Commercial",
+    "place": "Intermarché SAS Sodilys, Estaires",
+    "detail": [
+      "Gestion de la caisse",
+      "Accueil, conseil et fidélisation de la clientèle.\nGestion et approvisionnement d'un rayon"
+    ]
+  }
+]

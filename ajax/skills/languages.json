@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "iconClass": "fab fa-html5",
+    "name": "HTML 5",
+    "level": "3"
+  },  {
+    "id": "2",
+    "iconClass": "fab fa-css3-alt",
+    "name": "CSS 3",
+    "level": "3"
+  },  {
+    "id": "3",
+    "iconClass": "fab fa-js",
+    "name": "JavaScript",
+    "level": "3"
+  },  {
+    "id": "4",
+    "iconClass": "fab fa-php",
+    "name": "PHP 5/7",
+    "level": "2"
+  },  {
+    "id": "5",
+    "iconClass": "fas fa-code",
+    "name": "SQL",
+    "level": "2"
+  }
+
+]

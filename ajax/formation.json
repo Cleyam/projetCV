@@ -1,0 +1,16 @@
+[{
+  "id":"1",
+  "periode":"10/2019 - 07/2019",
+  "name": "Titre professionnel - Développeur Web & Web Mobile",
+  "place":"AFPA, Liévin"
+}, {
+  "id":"2",
+  "periode":"09/2012 - 05/2015",
+  "name": "Licence Lettres Modernes ( Niveau Bac+3 )",
+  "place":"Université de Lille 3 - Charles de Gaulle, Villeneuve d'Ascq"
+}, {
+  "id":"3",
+  "periode":"07/2012",
+  "name": "BAC ES - Mention Bien",
+  "place":"Lycée Val de Lys, Estaires"
+}]
