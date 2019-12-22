@@ -1,0 +1,31 @@
+[{
+        "id": "1",
+        "name": "Jeux vidéos",
+        "detail":"( MMORPG / RPG / Stratégie / Jeux de gestion / Jeux de stratégie / FPS )"
+    },
+    {
+        "id": "2",
+        "name": "Jeu de Rôle",
+        "detail":"( Gestion de table / Création de scénarios / Parties en équipe )"
+    },
+    {
+        "id": "3",
+        "name": "Lecture",
+        "detail":"( Fantasy / Science-Fiction )"
+    },
+    {
+        "id": "4",
+        "name": "Streaming et création de contenus vidéo",
+        "detail":"( Twitch / Youtube )"
+    },
+    {
+        "id": "5",
+        "name": "Cosplay",
+        "detail":"( Création d'équipement / Participation à des conventions )"
+    },
+    {
+        "id": "6",
+        "name": "Gestion de communautés Web",
+        "detail":"( Réseaux sociaux / Forums / Discord )"
+    }
+]

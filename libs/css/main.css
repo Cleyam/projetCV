@@ -1,38 +1,45 @@
-*, #skill, #header{
+*, #skill, #header,p {
     margin: 0;
     padding: 0;
 }
 
-.bgDarkBlue{
+.bgDarkBlue {
     background-color: #2b6385;
 }
 
-.bgGrey{
-    background-color: #b3b7bb;
+.bgGrey, body {
+    background-color: #d7dadd;
 }
 
-.whiteText{
-    color: white;
+#header, .formation, .experience, .hobbies, #profile {
+    padding-bottom: 10px;
 }
 
-#header, .formation{
-    padding-bottom: 20px;
+#formation, #experience, #hobbies, #profile{
+    margin-top: 10px;
 }
 
-#cvAvatar{
-    font-size: 150px;
+.experienceDetail{
+    list-style-position: inside;
+    padding-bottom: 5px;
 }
 
-.cvIcons{
+h3{
+    padding-top: 10px;
+}
+
+.cvIcons {
     font-size: 40px;
- }
-
-#profile{
-    padding-top: 20px;
+    max-height: 50px;
+    color: black;
 }
 
+#profilePicture{
+    height: 200px;
+    image-orientation: from-image;
+}
 
-
-li{
-    margin: 10px;
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+    border: #2b6385;
+    background: #2b6385;
 }

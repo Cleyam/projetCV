@@ -2,23 +2,23 @@
   {
     "id": "1",
     "name": "Visual Studio Code",
-    "level": "3"
+    "iconClass": "fas fa-file-code"
   },  {
     "id": "2",
     "name": "PHPStorm",
-    "level": "3"
+    "iconClass": "fas fa-file-code"
   },  {
     "id": "3",
     "name": "Git",
-    "level": "2"
+    "iconClass": "fab fa-git"
   },  {
     "id": "4",
     "name": "GitHub",
-    "level": "2"
+    "iconClass": "fab fa-github"
   },  {
     "id": "5",
     "name": "GitKraken",
-    "level": "2"
+    "iconClass": "fab fa-gitkraken"
   }
 
 ]

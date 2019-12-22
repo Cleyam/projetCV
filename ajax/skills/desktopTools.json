@@ -2,11 +2,15 @@
   {
     "id": "1",
     "name": "Microsoft Office",
-    "level": "2"
+    "iconClass": "far fa-keyboard"
   },  {
   "id": "2",
-  "name": "LibreOffice / OpenOffice",
-  "level": "3"
+  "name": "LibreOffice",
+  "iconClass": "far fa-keyboard"
+},  {
+  "id": "3",
+  "name": "OpenOffice",
+  "iconClass": "far fa-keyboard"
 }
 
 ]

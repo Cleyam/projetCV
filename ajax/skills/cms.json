@@ -1,0 +1,11 @@
+[{
+        "id": "1",
+        "name": "WordPress",
+        "iconClass": "icon-wordpress"
+    }, {
+        "id": "2",
+        "name": "Prestashop",
+        "iconClass": "fas fa-shopping-cart"
+    }
+
+]

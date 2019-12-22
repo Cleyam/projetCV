@@ -1,0 +1,27 @@
+[{
+        "id": "1",
+        "name": "Adresse",
+        "info": "6 rue de Valmy<br>62840 Laventie"
+    },
+    {
+        "id": "2",
+        "name": "Téléphone",
+        "info": "06 09 38 96 76"
+    },
+    {
+        "id": "3",
+        "name": "E-mail",
+        "info": "mr.thomas.hermant@gmail.com"
+    },
+    {
+        "id": "4",
+        "name": "Date de naissance",
+        "info": "8 mars 1994"
+    },
+    {
+        "id": "5",
+        "name": "Permis",
+        "info": "Permis B - Véhiculé"
+    }
+
+]

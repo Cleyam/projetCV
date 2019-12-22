@@ -2,19 +2,18 @@
   {
     "id": "1",
     "name": "AJAX",
-    "level": "3"
+    "iconClass": "fas fa-tools"
   },  {
   "id": "2",
   "name": "JSON",
-  "level": "3"
+  "iconClass": "fas fa-tools"
 },  {
   "id": "3",
   "name": "MySQL",
-  "level": "2"
+  "iconClass": "fas fa-tools"
 },  {
   "id": "4",
   "name": "MariaDB",
-  "level": "2"
+  "iconClass": "fas fa-tools"
 }
-
 ]

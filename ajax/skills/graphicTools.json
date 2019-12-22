@@ -2,11 +2,11 @@
   {
     "id": "1",
     "name": "Balsamiq Mockups 3",
-    "level": "3"
+    "iconClass": "fas fa-pencil-ruler"
   },  {
   "id": "2",
   "name": "Photoshop CS5",
-  "level": "3"
+  "iconClass": "fab fa-adobe"
 }
 
 ]

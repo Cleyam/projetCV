@@ -2,19 +2,19 @@
   {
     "id": "1",
     "name": "BootStrap 3/4",
-    "level": "3"
+    "iconClass": "icon-bootstrap"
   },  {
   "id": "2",
   "name": "JQuery",
-  "level": "3"
+  "iconClass": "icon-jquery"
 },  {
   "id": "3",
   "name": "Angular",
-  "level": "2"
+  "iconClass": "icon-symfony"
 },  {
   "id": "4",
   "name": "Symfony",
-  "level": "2"
+  "iconClass": "icon-angular"
 }
 
 ]
