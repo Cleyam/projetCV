@@ -16,28 +16,23 @@ $(function () {
 
         }
     });
+
     // Append experience.json into HTML
     $.ajax({
         url: "ajax/experience.json",
         method: "GET"
     }).done(function (data) {
         for (let loop = 0; loop <= data.length - 1; loop++) {
-            let ajout = "<hr><div id=\'experience" + loop + "\' class=\'formation row\'>\n";
-            ajout += "<div id=\'periode" + loop + "\' class=\'col-12\'>" + data[loop].periode + "</div>\n";
-            ajout += "<div class=\'col-12\'>\n";
-            ajout += "<p  id=\'name" + loop + "\' class=\'font-weight-bold\'>" + data[loop].name + "</p>\n";
-            ajout += "<div id=\'place" + loop + "\' class=\'font-weight-bold\'>" + data[loop].place + "</div>\n";
-            ajout += "<div id=\'detail" + loop + "\'><ul class=\'text-left\'>";
+            let ajout = "<hr><div id=\'experience" + loop + "\' class=\'formation row\'><div id=\'periode" + loop + "\' class=\'col-12\'>" + data[loop].periode + "</div><div class=\'col-12\'><p  id=\'name" + loop + "\' class=\'font-weight-bold\'>" + data[loop].name + "</p><div id=\'place" + loop + "\' class=\'font-weight-bold\'>" + data[loop].place + "</div><div id=\'detail" + loop + "\'><ul class=\'text-left\'>";
             for (let loopLI = 0; loopLI <= data[loop].detail.length - 1; loopLI++) {
                 ajout += "<li class=\'experienceDetail\'>" + data[loop].detail[loopLI] + "</li>"
             };
-            ajout += "</ul></div>\n";
-            ajout += "</div>\n";
-            ajout += "</div>";
+            ajout += "</ul></div></div></div>";
             $("#experience").append(ajout)
 
         }
     });
+
     // Append languages.json into HTML
     $.ajax({
         url: "ajax/skills/languages.json",
