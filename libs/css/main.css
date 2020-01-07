@@ -5,6 +5,13 @@
 
 .bgDarkBlue {
     background-color: #2b6385;
+    border-color: #2b6385;
+}
+
+.bgDarkBlue:hover {
+    color :#fff;
+    background-color: #2b6385;
+    border-color: #2b6385;
 }
 
 .bgGrey, body {
@@ -17,6 +24,10 @@
 
 #formation, #experience, #hobbies, #profile, #accordion{
     margin-top: 10px;
+}
+
+#hobbies{
+    margin-bottom: 10px;
 }
 
 .experienceDetail{

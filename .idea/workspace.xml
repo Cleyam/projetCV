@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5003c51b-1e28-4691-99c5-c6a8c629dd52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax/skills/skills.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax/experience.json" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/experience.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax/skills/frameworks.json" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/skills/frameworks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/js/main.js" afterDir="false" />
     </list>
@@ -23,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\projetCV\ajax" />
       <recent name="C:\wamp64\www\projectCV\ajax\skills" />
     </key>
   </component>
@@ -84,6 +82,7 @@
       <workItem from="1576825820661" duration="12561000" />
       <workItem from="1578295700045" duration="10067000" />
       <workItem from="1578381006337" duration="9652000" />
+      <workItem from="1578396555913" duration="5597000" />
     </task>
     <servers />
   </component>
@@ -99,6 +98,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="1040" y="263" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1578296082534" />
+    <state x="689" y="215" key="RollbackChangesDialog" timestamp="1578402915492">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="689" y="215" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578402915492" />
     <state x="341" y="147" key="SettingsEditor" timestamp="1578302971357">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
