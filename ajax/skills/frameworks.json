@@ -10,11 +10,11 @@
 },  {
   "id": "3",
   "name": "Angular",
-  "iconClass": "icon-symfony"
+  "iconClass": "icon-angular"
 },  {
   "id": "4",
   "name": "Symfony",
-  "iconClass": "icon-angular"
+  "iconClass": "icon-symfony"
 }
 
 ]

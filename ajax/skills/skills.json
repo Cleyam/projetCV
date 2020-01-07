@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "json": "ajax/skills/languages.json",
+    "anchor": "#languages",
+    "ul": "language"
+  },{
+  "id": "2",
+  "json": "ajax/skills/frameworks.json",
+  "anchor": "#frameworks",
+  "ul": "framework"
+},{
+  "id": "3",
+  "json": "ajax/skills/technologies.json",
+  "anchor": "#technologies",
+  "ul": "techno"
+},{
+  "id": "4",
+  "json": "ajax/skills/devTools.json",
+  "anchor": "#devTools",
+  "ul": "devTool"
+},{
+  "id": "5",
+  "json": "ajax/skills/graphicTools.json",
+  "anchor": "#graphicTools",
+  "ul": "graphicTool"
+},{
+  "id": "6",
+  "json": "ajax/skills/desktopTools.json",
+  "anchor": "#desktopTools",
+  "ul": "desktopTool"
+},{
+  "id": "7",
+  "json": "ajax/skills/spokenLanguages.json",
+  "anchor": "#spokenLanguages",
+  "ul": "spokenLanguage"
+},{
+  "id": "8",
+  "json": "ajax/skills/cms.json",
+  "anchor": "#cms",
+  "ul": "cmsUL"
+}
+]
+
