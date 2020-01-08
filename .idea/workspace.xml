@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5003c51b-1e28-4691-99c5-c6a8c629dd52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/contactSelect.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,8 @@
       <workItem from="1576825820661" duration="12561000" />
       <workItem from="1578295700045" duration="10067000" />
       <workItem from="1578381006337" duration="9652000" />
-      <workItem from="1578396555913" duration="5597000" />
+      <workItem from="1578396555913" duration="6938000" />
+      <workItem from="1578467379749" duration="10389000" />
     </task>
     <servers />
   </component>
