@@ -1,4 +1,4 @@
-*, #skill, #header,p {
+*, #skill, #header, p {
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@
 }
 
 .bgDarkBlue:hover {
-    color :#fff;
+    color: #fff;
     background-color: #2b6385;
     border-color: #2b6385;
 }
@@ -18,24 +18,28 @@
     background-color: #d7dadd;
 }
 
+.fixed {
+    position: fixed;
+}
+
 #header, .formation, .experience, .hobbies, #profile {
     padding-bottom: 10px;
 }
 
-#formation, #experience, #hobbies, #profile, #accordion{
+#formation, #experience, #hobbies, #profile, #accordion, .btnMission {
     margin-top: 10px;
 }
 
-#hobbies{
+#hobbies {
     margin-bottom: 10px;
 }
 
-.experienceDetail{
+.experienceDetail {
     list-style-position: inside;
     padding-bottom: 5px;
 }
 
-h3{
+h3 {
     padding-top: 10px;
 }
 
@@ -45,12 +49,44 @@ h3{
     color: #2b6385;
 }
 
-#profilePicture{
+#profilePicture {
     height: 200px;
-    image-orientation: from-image;
 }
 
-.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
     border: #2b6385;
     background: #2b6385;
+}
+
+/* TAILLE TELEPHONE */
+
+@media only screen and  (max-width: 576px) {
+    .modalWidth {
+        min-width: 350px;
+    }
+}
+
+/* TAILLE IPAD */
+
+@media only screen and  (min-width: 577px) and (max-width: 770px) {
+    .modalWidth {
+        min-width: 400px;
+    }
+}
+
+/* TAILLE ECRAN MOYEN */
+
+@media only screen and  (min-width: 771px) and (max-width: 991px) {
+    .modalWidth {
+        min-width: 600px;
+    }
+
+}
+
+/* TAILLE ECRAN GRAND */
+
+@media only screen and  (min-width: 992px) {
+    .modalWidth {
+        min-width: 1000px;
+    }
 }

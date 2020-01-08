@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5003c51b-1e28-4691-99c5-c6a8c629dd52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax/contactSelect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projectCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projectCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/img/profilePicture.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/libs/js/main.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -46,9 +52,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cleyam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cleyam/libs/css/main.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +89,7 @@
       <workItem from="1578295700045" duration="10067000" />
       <workItem from="1578381006337" duration="9652000" />
       <workItem from="1578396555913" duration="6938000" />
-      <workItem from="1578467379749" duration="10389000" />
+      <workItem from="1578467379749" duration="21175000" />
     </task>
     <servers />
   </component>
@@ -95,17 +101,17 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="596" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1576830079506" />
-    <state x="1040" y="263" key="FileChooserDialogImpl" timestamp="1578296082534">
+    <state x="1040" y="263" key="FileChooserDialogImpl" timestamp="1578488652091">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="1040" y="263" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1578296082534" />
+    <state x="1040" y="263" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1578488652091" />
     <state x="689" y="215" key="RollbackChangesDialog" timestamp="1578402915492">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="689" y="215" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578402915492" />
-    <state x="341" y="147" key="SettingsEditor" timestamp="1578302971357">
+    <state x="341" y="147" key="SettingsEditor" timestamp="1578485351629">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1578302971357" />
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1578485351629" />
   </component>
 </project>
